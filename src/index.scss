@@ -1,0 +1,40 @@
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+html, body, #container, #container>div {
+    height: 100%;
+}
+
+// Section content
+.hero {
+    .subtitle {
+        font-size: 0.7em;
+    }
+}
+
+// Form content
+
+#input-form {
+    margin-top: 6%;
+    .button {
+        margin: 2% 0 2% 0;
+    }
+}
+
+// task 
+
+.button .button .is-danger {
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 50%;
+
+}
+
+// Add class complete
+.completed {
+    text-decoration: line-through;
+    color: red;
+}
