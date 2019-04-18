@@ -1,7 +1,7 @@
 # todolist
 Démo todolist
 
-Installati react / yarn / bulma
+Installation react / yarn / bulma
 
 In the project directory, you can run:
 
